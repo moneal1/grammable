@@ -1,5 +1,11 @@
 class GramsController < ApplicationController
-    def def index
+
+    def new
+        @gram = Gram.new
+        
+    end
+
+    def index
     
     end
 end
