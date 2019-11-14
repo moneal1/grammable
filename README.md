@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable
+Grammable is a Test Driven Development project designed to build autimated software tests in Ruby, ensure good test coverage, and release perfectly tested code on a level of a professional developer.
 
-Things you may want to cover:
+Installation
+To run Grammable on Heroku https://grammable-mike-oneal.herokuapp.com/
 
-* Ruby version
+Grammable's project design was to be like Instagram. The project consists of adding pictures and enabling comments to the pictures all while making sure the web app ran successfully using TDD. Members were also instructed to sign in to an account using their email address and being able to store their infornation on the site.
 
-* System dependencies
+Contributing
+Project for University of Arizona
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+License 
+U of A
